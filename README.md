@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Tina Oberoi
+
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=tinaoberoi&label=Profile%20views&color=0e75b6&style=flat)" alt="tinaoberoi" /> </p>
 
 <!--
 **tinaoberoi/tinaoberoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
