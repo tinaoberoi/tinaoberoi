@@ -35,5 +35,5 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tinaoberoi?label=Follow)](https://twitter.com/intent/follow?screen_name=tinaoberoi)
-[![Linkedin: tinaoberoi](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oberoitina/)](https://www.linkedin.com/in/oberoitina/)
+[![Linkedin: tinaoberoi](https://img.shields.io/badge/-tinaoberoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oberoitina/)](https://www.linkedin.com/in/oberoitina/)
 ![GitHub followers](https://img.shields.io/github/followers/tinaoberoi?label=Follow&style=social)
